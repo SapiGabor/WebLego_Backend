@@ -19,4 +19,5 @@ public class Lego {
     private String name;
     private String type;
     private String recommendedAge;
+    private int price;
 }
